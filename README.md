@@ -36,5 +36,3 @@ Welcome to **FinanceApp**, a machine learning-based web application that predict
 ### **Visualization**
 - The app generates visual graphs that represent stock data, predictions, and trends over time, providing clear insights into the stock’s performance.
 
-## **Project Structure**
-FinanceApp/ │ ├── myapp/ # Main application code │ ├── migrations/ # Database migrations │ ├── models.py # Machine learning models (e.g., Linear Regression, LSTM) │ ├── views.py # Views and API endpoints │ ├── templates/ # HTML templates for frontend │ └── static/ # Static files (CSS, JS) │ ├── FinanceApp/ # Main Django project directory │ ├── settings.py # Django settings │ ├── urls.py # URL routing │ └── wsgi.py # WSGI entry point for deployment │ ├── manage.py # Django management script └── requirements.txt # Project dependencies
